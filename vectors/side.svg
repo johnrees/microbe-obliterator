@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="444px" height="539px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g>
+        <g>
+            <g id="Layer1">
+                <path d="M173.038,55.9985C206.407,53.3084 258.9,51.1341 340.257,60.9595C364.621,63.9018 363.273,64.4697 376.667,104.934C382.53,122.65 397.467,183.779 396,198.283C395.168,206.508 391.973,215.1 376.984,214.617C251.947,210.587 218.633,225.46 153.318,273.95C123.54,296.057 118.923,300.388 106.682,298.651C92.3606,296.62 91.5221,254.149 103.363,202.999C117.948,139.999 142.229,82.9608 146.395,74.3145C155.395,55.6335 160.23,57.0311 173.038,55.9985Z" style="fill:none;stroke-width:1px;stroke:rgb(255,4,0);"/>
+                <path d="M387.341,142.795C308.008,136.152 246.943,124.908 220.341,145.462C197.105,163.414 193,190.115 191.008,247.144" style="fill:none;stroke-width:1px;stroke:rgb(5,45,255);"/>
+            </g>
+        </g>
+    </g>
+</svg>
